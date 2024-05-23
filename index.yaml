@@ -9,6 +9,6 @@ entries:
     name: onetimesecrets
     type: application
     urls:
-    - https://blacktig3r.github.io/onetimesecret_k8s/onetimesecrets-0.1.0.tgz
+    - https://blacktig3r.github.io/onetimesecret_k8s/onetimesecrets/
     version: 0.1.0
 generated: "2024-05-20T15:26:18.74053791+05:30"
